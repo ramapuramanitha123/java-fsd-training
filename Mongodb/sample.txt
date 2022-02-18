@@ -1,1 +1,20 @@
-
+-> use ust
+-> db.createCollection('product')
+-> db.product.insertMany([{'id':1,'name':'laptop','price':30000,'qty':3},{'id':2,'name':'canvas6','price':5000,'qty':3},{'id':3,'name':'mi','price':2000,'qty':2}])
+-> db.product.find({price:{$gt:3000}})
+-> db.product.find({price:{$gte:3000}})
+-> db.product.find({price:{$lt:3000}})
+-> db.product.find({name:'laptop'})
+-> db.product.find({name:{$in:['mi','laptop']}})
+-> db.product.find({$or:[{name:'mi'},{price:{$gt:3000}}]})
+> db.product.find({'price':{$gt:6000},'price':{$lt:4000}})
+-> db.product.updateOne({id:1},{$set:{price:1000}})
+-> db.product.updateMany({id:{$gte:2}},{$set:{price:6000}})
+->db.product.delete({@or[{id:1},{price:{@gt:600}}]})
+-> db.product.deleteMany({price:{$gt:500}})
+-> db.product.deleteOne({price:500})
+-> db.product.aggregate({$group:{_id:null,total:{$sum:'$price'}}})
+->db.product.aggregate({$group:{_id:'categoryid',total:{$sum:'$price'}}})
+->db.product.drop()
+->show databases
+->show collections
