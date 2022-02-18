@@ -1,1 +1,19 @@
-
+create database anitha2db;
+use anitha2db;
+create table EMP (Empid int not null, Empname varchar(20),Dept varchar(20),Salary long);
+select * from EMP;
+insert into EMP (Empid , Empname, Dept,Salary) values (1, 'anitha','IT',10000);
+insert into EMP (Empid , Empname, Dept,Salary) values (2, 'renu','HR',20000);
+insert into EMP (Empid , Empname, Dept,Salary) values (3, 'uma','MRKT',30000);
+insert into EMP (Empid , Empname, Dept,Salary) values (4, 'suma','IT',40000);
+insert into EMP (Empid , Empname, Dept,Salary) values (5, 'mahi','HR',50000);
+select Max(Salary) from emp group by dept;
+update EMP set Empname=loki where Empid  = 5;
+select * from EMP order by Empname desc;
+select * from EMP order by Empname asc;
+delete from EMP;
+alter table EMP add column EmpServiceyear int;
+truncate table EMP;
+select Min(Salary) from emp group by dept;
+select count(Empid) from EMP;
+select * from EMP order by Salary;
