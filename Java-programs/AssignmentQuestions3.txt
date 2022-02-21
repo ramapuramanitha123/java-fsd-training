@@ -1,0 +1,8 @@
+1.a) Write a program to use a Ternary operator and find the greatest of three numbers.
+b) Write a program to use a Ternary operator and find the smallest of three numbers.
+
+2.Write a java program to implement an interface with two methods.
+
+3.Write a java program to implement an abstract class with two abstract methods and one non-abstract method.
+
+4. Write a java program to evaluate two statements each using Logical OR and Logical And operator.

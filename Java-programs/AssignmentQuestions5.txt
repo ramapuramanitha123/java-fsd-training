@@ -1,0 +1,28 @@
+1.Write a program to input an array of integers according to the users, and display the duplicate array elements.
+
+2.Write a program to input an array of integers according to the users, and find the greatest value of them.
+
+3.Write a program to input an array of integers according to the user , and also take a input of a 
+particular integer and find out the occurence of the intger in the array.
+
+4.Write a program to input a String array and display it, and now to copy the elements into
+another array in the reverse order and print the reverse_array elements.
+
+5. Write a program to input the following details:
+i)Employee Name
+ii)Employee Salary
+iii)Employee Year of joining
+
+Calculate the Loyalty bonus of the Employee's by
+a)if the year of their joining is on or before than 2017,and their Salary is more than 30000/-,
+then the bonus will be 22% of the salary.
+b)if the year of their joining is on or before than 2017,and their Salary is less than 30000/-,
+then the bonus will be 33% of the salary.
+c)if the year of their joining is on or before than 2012,
+then the bonus will be 40% of the salary.
+d)if the year of their joining is after 2017,and their Salary is less than 30000/-,
+then the bonus will be 15% of the salary.
+e)if the year of their joining is after 2017,and their Salary is more than 30000/-,
+then the bonus will be 10% of the salary.
+
+5.
