@@ -1,0 +1,17 @@
+1.Write a program that prompts the user to input a positive integer. It should then output a message indicating whether the number is a prime number. 
+
+2.Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number. 
+
+3.A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+Take following input from user
+
+Number of classes held
+Number of classes attended.
+And print
+percentage of class attended
+Is student is allowed to sit in exam or not.
+
+
+4.A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.
+Ask user for their salary and year of service and print the net bonus amount. Note- create a method EmployeeBonus to calculate the bonus and return it.
+

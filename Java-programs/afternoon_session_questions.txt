@@ -1,0 +1,14 @@
+1.Write a program to create a arraylist of double element and add the elements.
+sort the elements in descending order and print it.
+
+2.Create a arraylist of integers and find the sum and average of the entire list.
+
+3.Create two arraylist of strings to take First_name and Last_name of the students,
+and print their whole name.
+
+4.Create an arraylist of user-defined data type Book. it should have:-
+i)Name of the Book
+ii)Author of the book
+iii)year of publication of the book
+iV)numer of copies sold.
+sort the array list based on the year of publication.

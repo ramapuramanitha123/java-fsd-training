@@ -1,0 +1,11 @@
+1. Program to take a number from the user and print the Fibanocci series until that number.
+
+2. Program to find out if a particular number is a duck number.
+
+3. Program to find if a particular number is a Strong number.
+
+4. Program to find if a particular String is a Palindrome.
+
+5. Program to find the first 10 natural palindrome numbers.
+
+Self Learn Quick sort 
