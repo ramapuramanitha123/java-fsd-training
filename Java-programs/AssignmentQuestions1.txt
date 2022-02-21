@@ -1,0 +1,7 @@
+1.Write a Java Program to initalise two variables and perform all the Arithmetic operations on them and dsiplay their result.
+
+2.Write a Java Program to initalise two global static variables and to display the greatest of them.
+
+3.Write a program to show the implemention of local, Instance and class variables in a single program.
+
+4.Write a java program to show a sub-class of a parents class in a different package.

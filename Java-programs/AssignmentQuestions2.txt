@@ -1,0 +1,21 @@
+1.Write Two program to implement Method overloading in different ways.Create atleast 4 methods in one program through which method overloading can be implemented.
+
+2.Write Two program to implement Method overriding.Create Two parent classes with two methods each , which are overridden.
+
+3.Identify the output of the following.
+
+class TestOverloading4{  
+public static void main(String[] args)
+{
+System.out.println("main with String[]");
+}  
+public static void main(String args)
+{
+System.out.println("main with String");
+}  
+public static void main()
+{
+System.out.println("main without args");}  
+}  
+
+4. write a program to implement Multi-level inheritance. Include atleast 3 classes.
