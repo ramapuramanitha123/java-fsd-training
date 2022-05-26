@@ -1,0 +1,4 @@
+Bundle-Name: ActionURLExample
+Bundle-SymbolicName: ActionURLExample
+Bundle-Version: 1.0.0
+Export-Package: ActionURLExample.constants
