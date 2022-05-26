@@ -1,0 +1,4 @@
+Bundle-Name: TestRenderproject
+Bundle-SymbolicName: TestRenderproject
+Bundle-Version: 1.0.0
+Export-Package: TestRenderproject.constants
