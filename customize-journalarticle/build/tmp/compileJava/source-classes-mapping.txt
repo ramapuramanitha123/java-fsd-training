@@ -1,0 +1,2 @@
+com/test/custom/service/CustomJournalArticleServiceWrapper.java
+ com.test.custom.service.CustomJournalArticleServiceWrapper

@@ -1,0 +1,3 @@
+Bundle-Name: customize-journalarticle
+Bundle-SymbolicName: com.test.custom.service
+Bundle-Version: 1.0.0

@@ -1,0 +1,5 @@
+Bundle-Name: customization-login
+Bundle-SymbolicName: customization.login
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.login.web;bundle-version="6.0.19"
+Portal-Bundle-Version: 7.4.3.15
